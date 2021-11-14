@@ -12,6 +12,7 @@ print("""
 															 
 print("========================================================================================================================")
 print("Bienvenue dans la version Beta du jeux Ultra Instinct de Gam's \n Cette version n'est pas complete mais vous permet de patienter la sortie du vrai jeux qui sera plus esthetique et plus complet avec plusieurs niveaux \n Vous disposez de 5 essais pour trouver un nombre tiré aléatoirement entre 1 et 10")
+
 trial = 1
 nb_trial = 5
 nb_al = random.randint(1, 10)
